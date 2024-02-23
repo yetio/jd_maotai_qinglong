@@ -4,6 +4,10 @@ import sys
 
 import log
 from jd_assistant import Assistant
+'''
+cron: 59 11 * * *
+new Env("京东茅台加购")
+'''
 
 if __name__ == '__main__':
     # sku_ids = '100066167064'  # 商品id
